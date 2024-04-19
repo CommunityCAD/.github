@@ -13,6 +13,6 @@ If you are interested in the system please feel free to DM me! Check out some �
 Screen shots do not include all features of the system and some design elements may have changed since the screenshot was taken. DM me if you are interested in a demo! 
 <p>
 <div align="center">
-  <a href="https://communitycad.app/docs/getting_started">Documentation</a> —
+  <a href="https://communitycad.app/docs/getting_started/home">Documentation</a> —
   <a href="https://discord.gg/tmZWX7q2yZ">Discord</a>
 </div>
