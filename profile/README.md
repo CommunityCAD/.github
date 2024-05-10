@@ -1,3 +1,4 @@
+<center>
 # About Community CAD
 
 Hello All! I am proud to announce that Community CAD has now entered beta and is ready for communities to use. Community CAD is an all-in-one solution that handles everything you need to run your community:
@@ -44,6 +45,7 @@ Community CAD is written in PHP so you can install it with PHP or a all-in-one D
 Server Boosters receive a 50% discount on all hosted plans! Feel free to check out #tickets for more perks!
 
 ## Links
+</center>
 <div align="center">
   <a href="https://communitycad.app/docs/getting_started/home">Documentation</a> —
   <a href="https://discord.gg/tmZWX7q2yZ">Discord</a>
