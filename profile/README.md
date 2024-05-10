@@ -10,21 +10,23 @@
   </p>
   
   <h2>Hosting Options</h2>
-  <ul>
-    <li>
-      <strong>Managed Hosting:</strong> Starts at $10/month. Features include automatic updates, priority support, and custom domains.
-    </li>
-    <li>
-      <strong>Self-Hosting:</strong> Open sourced options are available for those who prefer to manage their own installations.
-      <ul>
-        <li>PHP: <a href="https://github.com/CommunityCAD/CommunityCAD">GitHub - CommunityCAD/CommunityCAD</a></li>
-        <li>Docker: <a href="https://github.com/CommunityCAD/docker-community-cad">GitHub - CommunityCAD/docker-community-cad</a></li>
-      </ul>
-    </li>
-    <li>
-      <strong>Server Booster:</strong> 50% discount on hosted plans for Server Boosters.
-    </li>
-  </ul>
+  <div align="center">
+    <ul>
+      <li>
+        <strong>Managed Hosting:</strong> Starts at $10/month. Features include automatic updates, priority support, and custom domains.
+      </li>
+      <li>
+        <strong>Self-Hosting:</strong> Open sourced options are available for those who prefer to manage their own installations.
+        <ul>
+          <li>PHP: <a href="https://github.com/CommunityCAD/CommunityCAD">GitHub - CommunityCAD/CommunityCAD</a></li>
+          <li>Docker: <a href="https://github.com/CommunityCAD/docker-community-cad">GitHub - CommunityCAD/docker-community-cad</a></li>
+        </ul>
+      </li>
+      <li>
+        <strong>Server Booster:</strong> 50% discount on hosted plans for Server Boosters.
+      </li>
+    </ul>
+  </div>
   
   <h2>Links</h2>
   <a href="https://communitycad.app/docs/getting_started/home">Documentation</a> —
