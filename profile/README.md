@@ -1,17 +1,49 @@
-<h1 align="center">
-CommunityCAD
-</h1>
-<p align="center">
-Hello All! I am proud to announce that CommunityCAD has now been put into beta and is ready to have communities use it. CommunityCAD is an all in one solution that handles everything you need to run your community. Applications? CHECK! Member rosters and activity tracking? CHECK! CAD/MDT Functionality? wait... CHCEK! DM me if you have any questions or are interested!
+# About Community CAD
 
-First let me tell you a little about the history. Playing FiveM for the last 8 years almost I haven't seen a community that has everything in one place. To apply to be a member you have to use this Google Form or worse ejin forms. Then you had to be whitelisted through something else. Then you had the CAD/MDT while department heads tried to keep track of Google Forms and Docs.
+Hello All! I am proud to announce that Community CAD has now entered beta and is ready for communities to use. Community CAD is an all-in-one solution that handles everything you need to run your community:
 
-I wanted to change that. After multiple iterations and years of work I have finally finished a complete Version 1 that I wish to open to the public. I still haven't decided fully if it will be open source or a subscription based like other systems. This is a web based option so FiveM, Console, and Roblox roleplay communities can take advantage of this system. Its made with simple php so anyone can host it with cPanel very easily if I open source it or Subscription I will handle all hosting needs for you.
+- Applications? :white_check_mark:!
+- Member rosters and activity tracking? :white_check_mark:!
+- CAD/MDT Functionality? :white_check_mark:!
 
-If you are interested in the system please feel free to DM me! Check out some ⁠features. I can set up a demo if you are further interested. If you have any questions please do not hesitate to reach out.
+## History
 
-Screen shots do not include all features of the system and some design elements may have changed since the screenshot was taken. DM me if you are interested in a demo! 
-<p>
+Let me give you a bit of background. Having played FiveM for nearly 8 years, I've yet to come across a community with everything in one place. To apply to become a member, you typically had to use Google Forms or, worse, ejin forms. Then, you had to be whitelisted through another process. Meanwhile, department heads struggled to keep track of Google Forms and Docs.
+
+I wanted to change that. After multiple iterations and years of work, I have finally completed Version 1 of a comprehensive solution that I'm excited to open to the public.  This is a web-based option, so FiveM, Console, and Roblox roleplay communities can take advantage of this system. 
+
+*Note: Screenshots do not include all features of the system, and some design elements may have changed since the screenshot was taken. *
+
+## Hosting Options
+
+### 1. Managed Hosting (PAID)
+
+We have a Hosting Solution available for $10/month. With that, you get:
+
+- Managed Hosting: We take care of everything for you!
+- Ability to connect your own domain: Either have your own xxxx.communitycad.app domain or bring your own domain
+- Automatic Updates: Get updates as soon as they are live with no work required on your part
+- Priority Support: Get access to the Priority Support channels to get help quick
+- Priority Suggestions: Get your suggestions pushed to the front of the line
+
+If you are interested, create a ticket in #tickets
+
+### 2. Self-Hosting (*Free*)
+
+Community CAD is now opened sourced! You are more than welcome to host your own copy of Community CAD
+
+*Notice: No Hosting Support will be provided for Self-Hosted Versions.*
+
+Community CAD is written in PHP so you can install it with PHP or a all-in-one Docker Container. Each Repo will have install guides!
+
+- PHP - [GitHub - CommunityCAD/CommunityCAD](<https://github.com/CommunityCAD/CommunityCAD>)
+- Docker - [GitHub - CommunityCAD/docker-community-cad](<https://github.com/CommunityCAD/docker-community-cad>)
+
+### 3. Server Booster (PAID)
+
+Server Boosters receive a 50% discount on all hosted plans! Feel free to check out #tickets for more perks!
+
+## Links
 <div align="center">
   <a href="https://communitycad.app/docs/getting_started/home">Documentation</a> —
   <a href="https://discord.gg/tmZWX7q2yZ">Discord</a>
