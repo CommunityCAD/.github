@@ -10,7 +10,7 @@
   </p>
   
   <h2>Hosting Options</h2>
-  <div align="center">
+  <div style="text-align: left; display: inline-block;">
     <ul>
       <li>
         <strong>Managed Hosting:</strong> Starts at $10/month. Features include automatic updates, priority support, and custom domains.
@@ -34,3 +34,4 @@
   
   <p><em>Note: Screenshots may not reflect all features and designs may change.</em></p>
 </div>
+
